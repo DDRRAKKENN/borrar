@@ -1,6 +1,9 @@
 
 
 
+from logging import debug
+
+
 def sumames():
     if (==11):
         =1
@@ -12,4 +15,4 @@ def sumames():
 
 
 fechas = [20200130,20201114,20220930,20221221]
-
+debug
